@@ -120,6 +120,9 @@ function App() {
         </div>
         </div>
       </header>
+      <div className="footer">
+      <p>© 2022 Jovanche Sarafinoski All rights reserved.</p>
+    </div>
     </div>
   );
 }
